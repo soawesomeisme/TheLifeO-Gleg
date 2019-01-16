@@ -4,7 +4,7 @@
 <title>Page 4</title>
 </head>
 <body>
-<a href="https://images.pexels.com/photos/1077392/pexels-photo-1077392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">Angry goose</a>
+<a href="MadGoose.jpg">Angry goose</a>
 <h1>Page 4</h1>
 <p>Seeing his disfigurement, Gleg's mother disowns him.</p>
 </body>
