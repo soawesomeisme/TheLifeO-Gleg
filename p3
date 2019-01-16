@@ -4,7 +4,7 @@
 <title>Page 3</title>
 </head>
 <body>
-<a href="Gleg.jpg">Gleg</a>
+<img src="Gleg.jpg" alt="Gleg">
 <h1>Page 3</h1>
 <p>Out pops Gleg.</p>
 </body>
